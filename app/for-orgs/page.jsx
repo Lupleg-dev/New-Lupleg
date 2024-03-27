@@ -1,3 +1,9 @@
-export default function Pricing() {
-  return <h2>Hello</h2>;
+import React from 'react'
+
+function page() {
+  return (
+    <div>for page</div>
+  )
 }
+
+export default page
